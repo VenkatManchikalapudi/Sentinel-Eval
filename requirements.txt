@@ -1,0 +1,4 @@
+deepeval==0.21.56
+ollama==0.1.32
+pytest==7.4.3
+python-dotenv==1.0.0
