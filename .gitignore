@@ -46,5 +46,22 @@ env/
 .coverage
 htmlcov/
 
+# DeepEval cache
+.deepeval/
+
 # Logs
 *.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Test outputs
+test_output.txt
+/tmp/test_results.txt
+
+# Run scripts
+run_tests.sh
+
+# Documentation
+GITHUB_SETUP.md
